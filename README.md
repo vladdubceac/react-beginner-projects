@@ -1,1 +1,1 @@
-This is a Spring Boot + React project. 2023-01-29
+First React projects. 2023-01-29
